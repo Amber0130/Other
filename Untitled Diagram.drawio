@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T07:33:48.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="PHA2bkw8JBs1sinDALef" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T07:42:20.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="SG5qZSx0t8lcsj9KJDMw" version="16.6.3" type="github">
   <diagram id="F_U6pM1qq8SpCUaOEMC0" name="Page-1">
     <mxGraphModel dx="2863" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -159,12 +159,6 @@
         </mxCell>
         <mxCell id="z0Ff5NycwhdWf5p1YU46-37" value="孤儿进程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-720" y="260" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z0Ff5NycwhdWf5p1YU46-38" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="400" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="z0Ff5NycwhdWf5p1YU46-39" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z0Ff5NycwhdWf5p1YU46-40" value="每一个uuid fork一次" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-629" y="330" width="60" height="30" as="geometry" />
