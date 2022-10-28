@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T08:44:12.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="p6HOkicOLnBsVunOduRl" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-28T08:48:06.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="s7Czea0AGWLZa0PTMpnH" version="20.5.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="441" dy="780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
           <mxGeometry x="1166" y="212" width="162" height="273" as="geometry" />
         </mxCell>
         <mxCell id="2C7Q1RRgd2hbF5ToqMca-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1375" y="212" width="162" height="273" as="geometry" />
+          <mxGeometry x="1373" y="210" width="162" height="273" as="geometry" />
         </mxCell>
         <mxCell id="2C7Q1RRgd2hbF5ToqMca-2" value="VMI监控模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1186.75" y="237" width="115" height="35" as="geometry" />
@@ -122,10 +122,10 @@
           <mxGeometry x="1186.75" y="291" width="115" height="163.5" as="geometry" />
         </mxCell>
         <mxCell id="2C7Q1RRgd2hbF5ToqMca-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1166" y="516" width="375.5" height="86" as="geometry" />
+          <mxGeometry x="1166" y="495" width="375.5" height="86" as="geometry" />
         </mxCell>
         <mxCell id="2C7Q1RRgd2hbF5ToqMca-12" value="Host" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1166" y="550" width="60" height="30" as="geometry" />
+          <mxGeometry x="1166" y="529" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2C7Q1RRgd2hbF5ToqMca-13" value="Guest" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1211" y="175" width="60" height="30" as="geometry" />
@@ -167,10 +167,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TMDhEuVxAZm5kdIAnyZ5-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1232" y="528" width="282" height="64" as="geometry" />
+          <mxGeometry x="1220" y="506" width="272" height="64" as="geometry" />
         </mxCell>
         <mxCell id="TMDhEuVxAZm5kdIAnyZ5-12" value="控制HVMI模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1203" y="319" width="86" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TMDhEuVxAZm5kdIAnyZ5-14" value="与Guest交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1235" y="523" width="85" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="TMDhEuVxAZm5kdIAnyZ5-15" value="控制Target开关机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1390" y="521" width="87" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="TMDhEuVxAZm5kdIAnyZ5-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1214" y="467.07" width="84.62" height="27.93" as="geometry" />
+        </mxCell>
+        <mxCell id="TMDhEuVxAZm5kdIAnyZ5-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1422" y="475" width="42" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="TMDhEuVxAZm5kdIAnyZ5-19" value="控制模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1323.75" y="525.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
