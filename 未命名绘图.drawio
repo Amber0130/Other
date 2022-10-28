@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T08:32:45.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vOWodDiu5U8J4XnQwHKC" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-28T08:44:12.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="p6HOkicOLnBsVunOduRl" version="20.5.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1209" dy="634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="441" dy="780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -109,38 +109,23 @@
             <mxPoint x="265" y="1056" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L5bjJk7ckYGiC62Blhyu-49" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="550" y="550" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="2C7Q1RRgd2hbF5ToqMca-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1166" y="212" width="162" height="273" as="geometry" />
         </mxCell>
         <mxCell id="2C7Q1RRgd2hbF5ToqMca-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1375" y="212" width="162" height="273" as="geometry" />
         </mxCell>
-        <mxCell id="2C7Q1RRgd2hbF5ToqMca-2" value="分析模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1187" y="224" width="115" height="35" as="geometry" />
+        <mxCell id="2C7Q1RRgd2hbF5ToqMca-2" value="VMI监控模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1186.75" y="237" width="115" height="35" as="geometry" />
         </mxCell>
         <mxCell id="2C7Q1RRgd2hbF5ToqMca-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1187" y="275" width="115" height="149" as="geometry" />
-        </mxCell>
-        <mxCell id="2C7Q1RRgd2hbF5ToqMca-4" value="HVMI模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1187" y="436" width="115" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="2C7Q1RRgd2hbF5ToqMca-6" value="流量监测模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1401" y="252" width="115" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="2C7Q1RRgd2hbF5ToqMca-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1401" y="327.5" width="115" height="42" as="geometry" />
+          <mxGeometry x="1186.75" y="291" width="115" height="163.5" as="geometry" />
         </mxCell>
         <mxCell id="2C7Q1RRgd2hbF5ToqMca-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="962" y="212" width="162" height="273" as="geometry" />
-        </mxCell>
-        <mxCell id="2C7Q1RRgd2hbF5ToqMca-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="988.25" y="277" width="109.5" height="128" as="geometry" />
+          <mxGeometry x="1166" y="516" width="375.5" height="86" as="geometry" />
         </mxCell>
         <mxCell id="2C7Q1RRgd2hbF5ToqMca-12" value="Host" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1013" y="179" width="60" height="30" as="geometry" />
+          <mxGeometry x="1166" y="550" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2C7Q1RRgd2hbF5ToqMca-13" value="Guest" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1211" y="175" width="60" height="30" as="geometry" />
@@ -148,40 +133,14 @@
         <mxCell id="2C7Q1RRgd2hbF5ToqMca-14" value="Target" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1422" y="175" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2C7Q1RRgd2hbF5ToqMca-15" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;width=10;endSize=5.45;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2C7Q1RRgd2hbF5ToqMca-10" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1097" y="344.5" as="sourcePoint" />
-            <mxPoint x="1189" y="341" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2C7Q1RRgd2hbF5ToqMca-16" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="2C7Q1RRgd2hbF5ToqMca-7" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1302" y="348" as="sourcePoint" />
-            <mxPoint x="1413" y="346" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2C7Q1RRgd2hbF5ToqMca-17" value="样本与流量包传输模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1407" y="333.5" width="103" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2C7Q1RRgd2hbF5ToqMca-20" value="控制模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1013" y="283" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2C7Q1RRgd2hbF5ToqMca-21" value="控制Target开关机" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1006" y="331.5" width="74" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="2C7Q1RRgd2hbF5ToqMca-22" value="控制模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1211" y="275" width="60" height="30" as="geometry" />
+          <mxGeometry x="1211" y="294" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2C7Q1RRgd2hbF5ToqMca-23" value="控制Host模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1202.25" y="345" width="84" height="31" as="geometry" />
+          <mxGeometry x="1202" y="407" width="84" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="2C7Q1RRgd2hbF5ToqMca-25" value="控制HVMI模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1202.75" y="384" width="84" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="2C7Q1RRgd2hbF5ToqMca-27" value="发送样本和接收流量包模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1202.25" y="304.5" width="84" height="31" as="geometry" />
+        <mxCell id="2C7Q1RRgd2hbF5ToqMca-27" value="接收流量包模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1202.25" y="364.5" width="84" height="31" as="geometry" />
         </mxCell>
         <mxCell id="TMDhEuVxAZm5kdIAnyZ5-3" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -206,6 +165,12 @@
             <mxPoint x="265" y="798" as="sourcePoint" />
             <mxPoint x="255" y="747" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TMDhEuVxAZm5kdIAnyZ5-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1232" y="528" width="282" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="TMDhEuVxAZm5kdIAnyZ5-12" value="控制HVMI模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1203" y="319" width="86" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
