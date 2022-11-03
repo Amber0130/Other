@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T11:20:32.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="LjjwUu8G5xtGw4xNZ2zb" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T11:22:10.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="i7Cnkc6mhS-Lxqgn3gmp" version="20.5.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1209" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -13,20 +13,32 @@
         <mxCell id="qitoYGK0ikFyKA9Qfu_o-2257" value="" style="shape=mxgraph.cisco.switches.atm_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="428" y="440" width="54" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="qitoYGK0ikFyKA9Qfu_o-2260" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qitoYGK0ikFyKA9Qfu_o-2267" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qitoYGK0ikFyKA9Qfu_o-2260" target="qitoYGK0ikFyKA9Qfu_o-2257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qitoYGK0ikFyKA9Qfu_o-2260" value="Guest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="325" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="qitoYGK0ikFyKA9Qfu_o-2271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qitoYGK0ikFyKA9Qfu_o-2262" target="qitoYGK0ikFyKA9Qfu_o-2257">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qitoYGK0ikFyKA9Qfu_o-2262" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="325" width="100" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="qitoYGK0ikFyKA9Qfu_o-2263" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qitoYGK0ikFyKA9Qfu_o-2270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qitoYGK0ikFyKA9Qfu_o-2263" target="qitoYGK0ikFyKA9Qfu_o-2257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qitoYGK0ikFyKA9Qfu_o-2263" value="Target" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="325" width="100" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="qitoYGK0ikFyKA9Qfu_o-2264" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qitoYGK0ikFyKA9Qfu_o-2264" value="物理网卡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="520" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qitoYGK0ikFyKA9Qfu_o-2265" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qitoYGK0ikFyKA9Qfu_o-2265" value="虚拟NAT设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qitoYGK0ikFyKA9Qfu_o-2266" value="Host" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="453" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
